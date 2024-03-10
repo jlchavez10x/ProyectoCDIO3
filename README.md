@@ -7,7 +7,5 @@
 * Abrir y combinar (**"merge"**) un **"Pull request"**.
 
 Los prerrequisitos para esto son:
-
-1- Crear cuenta en [GitHub](www.github.com/login).
-
-2- Descargar [GitHubDesktop](https://desktop.github.com/).
+* Crear cuenta en [GitHub](www.github.com/login).
+* Descargar [GitHubDesktop](https://desktop.github.com/).
