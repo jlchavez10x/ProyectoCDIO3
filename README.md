@@ -12,6 +12,6 @@ Los prerrequisitos para esto son:
 
 GitHub también cuenta con asistencia de la Inteligencia Artificial. Aquí un video de interés para su uso.
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/vUX5u_4B2AM" title="Say hello to GitHub Copilot Enterprise!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/vUX5u_4B2AM/0.jpg)](https://www.youtube.com/watch?v=vUX5u_4B2AM)
 
 
